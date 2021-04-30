@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 7",
+        "price": 6188.8,
+        "count": 0,
+        "check": false
+    },
+    {
+        "id": 2,
+        "name": "iPad Pro",
+        "price": 58.88,
+        "count": 0,
+        "check": false
+    },
+    {
+        "id": 3,
+        "name": "MacBook Pro",
+        "price": 214.88,
+        "count": 0,
+        "check": false
+    }
+]

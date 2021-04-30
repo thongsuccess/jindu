@@ -1,0 +1,32 @@
+[
+  {
+    "title":"首页",
+    "path":"/dashboard",
+    "children":[]
+  },
+  {
+    "title":"贷款申请",
+    "path":"/loan-input",
+    "children":[]
+  },
+  {
+    "title":"申请管理",
+    "path":"/about1",
+    "children":[]
+  },
+  {
+    "title":"贷款审批",
+    "path":"/about2",
+    "children":[]
+  },
+  {
+    "title":"标的管理",
+    "path":"/about3",
+    "children":[]
+  },
+  {
+    "title":"权限管理",
+    "path":"/permission",
+    "children":[]
+  }
+]
